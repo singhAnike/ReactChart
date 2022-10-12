@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactChart/static/css/main.1602bd17.css",
+    "main.js": "/ReactChart/static/js/main.dd765059.js",
+    "static/js/787.76f58928.chunk.js": "/ReactChart/static/js/787.76f58928.chunk.js",
+    "index.html": "/ReactChart/index.html",
+    "main.1602bd17.css.map": "/ReactChart/static/css/main.1602bd17.css.map",
+    "main.dd765059.js.map": "/ReactChart/static/js/main.dd765059.js.map",
+    "787.76f58928.chunk.js.map": "/ReactChart/static/js/787.76f58928.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1602bd17.css",
+    "static/js/main.dd765059.js"
+  ]
+}
