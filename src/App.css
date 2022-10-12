@@ -1,12 +1,63 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+.background-red {
+  background-color: red;
+}
+.navbar navbar-expand-lg navbar-light
+{
+  background-color: darkkhaki;
+  height: 67px;
+}
+.logo{
+  background-color: #282c34;
+  grid-column: 2/3;
+  justify-content: start;
+  align-content: center;
+}
 
+.Footer {
+  position: absolute;
+  bottom: 0;
+  height: 75px;
+  text-align: center;
+  width: 100%;
+  background-color: chocolate;
+  padding: 0px;
+}
+.Footer{
+  padding: 0;
+}
+
+.socialMedia ul{
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+.socialMedia 
+{
+  height: 70px;
+  background-color: black;
+  justify-content: space-between;
+}
+/* .social{
+  
+
+} */
+@media screen and (max-width:767px) {
+  table tr > *{
+      display: block;
+  }
+  table tr {
+      display: table-cell;
+  }
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
